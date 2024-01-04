@@ -1,6 +1,6 @@
 package string_bilder_practiced;
 
-public class demo5
+public class StringsBuffer
 {
 
 	public static void main(String[] args)
